@@ -1,0 +1,33 @@
+{
+  "name": "pbw-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinGOUMY/PBW-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RobinGOUMY/PBW-2025/issues"
+  },
+  "homepage": "https://github.com/RobinGOUMY/PBW-2025#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.13.2",
+    "web3": "^4.16.0"
+  }
+}
