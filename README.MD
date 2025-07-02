@@ -2,6 +2,9 @@
 
 The **EquityMarketplace** smart contract allows entrepreneurs (founders) to raise funds for their projects by offering equity in the form of NFTs. Investors can participate in funding projects and claim NFTs representing their share of equity in the project. The contract handles project creation, investment management, equity distribution, and profit sharing.
 
+## ⚠️ Hackathon Project – Not Fully Completed
+🚧 This project was created during a hackathon and remains incomplete. It served as a prototype built under time constraints. Use with caution improvements welcome!
+
 ## Table of Contents
 - [EquityMarketplace Smart Contract](#equitymarketplace-smart-contract)
   - [Table of Contents](#table-of-contents)
