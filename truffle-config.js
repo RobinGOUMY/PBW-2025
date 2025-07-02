@@ -14,8 +14,8 @@ module.exports = {
     // Bahamut Testnet configuration
     bahamutMainnet: {
       host: "https://rpc2.bahamut.io",
-      privateKey: "8983f8967fb9d50aa280bd0c4e87f5d36e2965d2e7dbbd226aa9405d925252dd",
-      provider: () => new HDWalletProvider("8983f8967fb9d50aa280bd0c4e87f5d36e2965d2e7dbbd226aa9405d925252dd", "https://rpc2.bahamut.io"),
+      privateKey: "Key",
+      provider: () => new HDWalletProvider("Key", "https://rpc2.bahamut.io"),
       network_id: 5165,   // Fastex id
       confirmations: 2,    // # of confs to wait between deployments. (default: 0)
       timeoutBlocks: 200,  // # of blocks before a deployment times out  (minimum/default: 50)
