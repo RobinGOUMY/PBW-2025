@@ -1,8 +1,8 @@
 const Web3 = require('web3');
-const web3 = new Web3('http://localhost:8545'); // Ou ton URL Infura si sur un testnet
+const web3 = new Web3('http://localhost:8545');
 
 const contractABI = require('../contracts/EquityMarketplace.json').abi;
-const contractAddress = 'TON_CONTRAT_ADRESSE'; // Remplace avec l'adresse de ton contrat
+const contractAddress = 'ADRESS';
 
 const equityMarketplace = new web3.eth.Contract(contractABI, contractAddress);
 
